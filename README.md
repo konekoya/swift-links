@@ -5,3 +5,6 @@
 - [The Swift Programming Language 正體中文版](https://tommy60703.gitbooks.io/swift-language-traditional-chinese/content/chapter1/01_swift.html)
 - [Swift by example](http://brettbukowski.github.io/SwiftExamples/)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+
+## Tools
+- [Online REPL](http://online.swiftplayground.run/)
