@@ -5,12 +5,14 @@
 - [The Swift Programming Language 正體中文版](https://tommy60703.gitbooks.io/swift-language-traditional-chinese/content/chapter1/01_swift.html)
 - [Swift by example](http://brettbukowski.github.io/SwiftExamples/)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+- [Swift.org](https://swift.org/)
 - [raywenderlinch.com](https://www.raywenderlich.com/whats-new)
 - [100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.ujf6i9mpo)
 - [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
+- [Learn Swift by Codecademey](https://www.codecademy.com/learn/learn-swift)
 
 #### Paid content
-- [Swift Fundamentals](https://app.pluralsight.com/library/courses/swift3-fundamentals/table-of-contents)
+- [Swift Fundamentals by Pluralsight](https://app.pluralsight.com/library/courses/swift3-fundamentals/table-of-contents)
 
 ## Tools
 - [Online REPL](http://online.swiftplayground.run/)
