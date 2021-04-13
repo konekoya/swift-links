@@ -9,5 +9,8 @@
 - [100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.ujf6i9mpo)
 - [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
 
+#### Paid content
+- [Swift Fundamentals](https://app.pluralsight.com/library/courses/swift3-fundamentals/table-of-contents)
+
 ## Tools
 - [Online REPL](http://online.swiftplayground.run/)
