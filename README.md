@@ -18,3 +18,4 @@
 ## Tools
 - [Online REPL](http://online.swiftplayground.run/)
 - [Human Interface Guidelines | Apple](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/)
+- [SF Symbols 2](https://developer.apple.com/sf-symbols/)
