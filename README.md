@@ -13,6 +13,7 @@
 
 #### Paid content
 - [Swift Fundamentals | Pluralsight](https://app.pluralsight.com/library/courses/swift3-fundamentals/table-of-contents)
+- [Build Your First SwiftUI App in Under 90mins](https://app.pluralsight.com/library/courses/build-first-swiftui-app/table-of-contents)
 
 ## Tools
 - [Online REPL](http://online.swiftplayground.run/)
