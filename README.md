@@ -22,7 +22,7 @@
 #### Video courses
 - [Swift Fundamentals | Pluralsight](https://app.pluralsight.com/library/courses/swift3-fundamentals/table-of-contents) - Learn the basic of Swift
 - [Build Your First SwiftUI App in Under 90mins | Pluralsight](https://app.pluralsight.com/library/courses/build-first-swiftui-app/table-of-contents) - Get your hands dirty by creating an iOS toDo App under 90 minutes.
-- [iOS 14 Getting Started | Pluralsight](https://app.pluralsight.com/library/courses/ios-14-fundamentals/table-of-contents)
+- [iOS 14 Getting Started | Pluralsight](https://app.pluralsight.com/library/courses/ios-14-fundamentals/table-of-contents) - This course is highly recommended as the App being built in the course has more functionalities and use the latest iOS 14 and Xcode 12
 - [Becoming an Xcode Power User | Pluralsight](https://app.pluralsight.com/library/courses/becoming-xcode-power-user/table-of-contents)
 - [iOS Networking with REST APIs | Pluralsight](https://app.pluralsight.com/library/courses/ios-networking-rest-apis/table-of-contents)
 - [raywenderlinch.com](https://www.raywenderlich.com/whats-new) - Many useful IOS development tutorials, mostly paid content though
