@@ -16,6 +16,9 @@
 - [How I’m learning Swift | 自學Swift指引](https://medium.com/henrystime/swift-ab0159b71871)
 - [Swift 5學習系列』-11. 閉包](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/%E7%B0%A1%E6%98%93%E8%AA%AA%E6%98%8Eswift-4-closures-77351c3bf775)
 
+#### Blogs
+- [Swift by Sundell](https://www.swiftbysundell.com/)
+
 #### Books
 - [iOS 14 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics 1st Edition](https://www.amazon.com/iOS-14-Programming-Fundamentals-Swift/dp/1492092096)
 - [The Swift Programming Language 正體中文版](https://tommy60703.gitbooks.io/swift-language-traditional-chinese/content/chapter1/01_swift.html)
