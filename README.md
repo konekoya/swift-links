@@ -15,6 +15,7 @@
 - [利用 SwiftUI 的 Spacer & padding 調整元件位置](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E5%88%A9%E7%94%A8-swiftui-%E7%9A%84-spacer-padding-%E8%AA%BF%E6%95%B4%E5%85%83%E4%BB%B6%E4%BD%8D%E7%BD%AE-1a851d3551e3)
 - [How I’m learning Swift | 自學Swift指引](https://medium.com/henrystime/swift-ab0159b71871)
 - [Swift 5學習系列』-11. 閉包](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/%E7%B0%A1%E6%98%93%E8%AA%AA%E6%98%8Eswift-4-closures-77351c3bf775)
+- [SwiftTips](https://github.com/vincent-pradeilles/swift-tips)
 
 #### Blogs
 - [Swift by Sundell](https://www.swiftbysundell.com/)
@@ -36,3 +37,8 @@
 - [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
 - [Human Interface Guidelines | Apple](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) - Apple's design reference
 - [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
+
+## Others
+
+[Example iOS Apps](https://github.com/jogendra/example-ios-apps)
+[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
