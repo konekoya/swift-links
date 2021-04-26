@@ -40,5 +40,5 @@
 
 ## Others
 
-[Example iOS Apps](https://github.com/jogendra/example-ios-apps)
-[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [Example iOS Apps](https://github.com/jogendra/example-ios-apps)
+- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
