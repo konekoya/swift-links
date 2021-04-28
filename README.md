@@ -32,6 +32,7 @@
 - [iOS Networking with REST APIs | Pluralsight](https://app.pluralsight.com/library/courses/ios-networking-rest-apis/table-of-contents)
 - [Managing Xcode Project Dependencies with CocoaPods](https://app.pluralsight.com/library/courses/cocoapods-xcode-project-dependencies/table-of-contents) - A short and quick guide for using CocoaPods
 - [raywenderlinch.com](https://www.raywenderlich.com/whats-new) - Many useful IOS development tutorials, mostly paid content though
+- [Mobile Under 10](https://www.youtube.com/channel/UCYZwwd9FKGwBRrL0-EYAjxA/videos) - Jonathan Wong's YouTube channel
 
 ## Tools
 - [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
