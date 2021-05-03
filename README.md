@@ -12,7 +12,7 @@
 #### Tutorial and blog posts
 - [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Online tnteractive Swift learning tutorial
 - [SwiftUI Tutorials | Apple](https://developer.apple.com/tutorials/swiftui) - Official Swift UI tutorial by Apple
-- - [SwiftTips](https://github.com/vincent-pradeilles/swift-tips) - See also the video version of these [tips](https://www.youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je) :) 
+- [SwiftTips](https://github.com/vincent-pradeilles/swift-tips) - See also the video version of these [tips](https://www.youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je) :) 
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui) - Project based learning SwiftUI
 
