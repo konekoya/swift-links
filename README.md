@@ -4,10 +4,7 @@
 
 #### Docs
 - [Swift.org](https://swift.org/) - Official docs for the Swift languange
-- [Swift by example](http://brettbukowski.github.io/SwiftExamples/)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Lots of resources for learning and using Swift
-- [100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.ujf6i9mpo)
-- [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
 
 #### Tutorial and blog posts
 - [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Online tnteractive Swift learning tutorial
@@ -15,6 +12,9 @@
 - [SwiftTips](https://github.com/vincent-pradeilles/swift-tips) - See also the video version of these [tips](https://www.youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je) :) 
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui) - Project based learning SwiftUI
+- [Swift by example](http://brettbukowski.github.io/SwiftExamples/)
+- [100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.ujf6i9mpo)
+- [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
 
 ##### Chinese
 - [利用 SwiftUI 的 Spacer & padding 調整元件位置](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E5%88%A9%E7%94%A8-swiftui-%E7%9A%84-spacer-padding-%E8%AA%BF%E6%95%B4%E5%85%83%E4%BB%B6%E4%BD%8D%E7%BD%AE-1a851d3551e3)
