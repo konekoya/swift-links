@@ -16,11 +16,11 @@
 - [100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.ujf6i9mpo)
 - [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
 
-##### Chinese
+##### in Chinese
 - [利用 SwiftUI 的 Spacer & padding 調整元件位置](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E5%88%A9%E7%94%A8-swiftui-%E7%9A%84-spacer-padding-%E8%AA%BF%E6%95%B4%E5%85%83%E4%BB%B6%E4%BD%8D%E7%BD%AE-1a851d3551e3)
 - [How I’m learning Swift | 自學Swift指引](https://medium.com/henrystime/swift-ab0159b71871)
 - [Swift 5學習系列』-11. 閉包](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/%E7%B0%A1%E6%98%93%E8%AA%AA%E6%98%8Eswift-4-closures-77351c3bf775)
-- [Array 的高階函式 filter, map and reduce](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/array-%E7%9A%84%E9%AB%98%E9%9A%8E%E5%87%BD%E5%BC%8F-filter-map-and-reduce-39fb8ba5a9f7)
+- [Array 的高階函式 filter, map and reduce](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/array-%E7%9A%84%E9%AB%98%E9%9A%8E%E5%87%BD%E5%BC%8F-filter-map-and-reduce-39fb8ba5a9f7) - Learn the basic functional programming concepts for collections
 
 #### Blogs
 - [Swift by Sundell](https://www.swiftbysundell.com/)
