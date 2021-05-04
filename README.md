@@ -37,13 +37,15 @@
 - [iOS Networking with REST APIs | Pluralsight](https://app.pluralsight.com/library/courses/ios-networking-rest-apis/table-of-contents)
 - [Managing Xcode Project Dependencies with CocoaPods](https://app.pluralsight.com/library/courses/cocoapods-xcode-project-dependencies/table-of-contents) - A short and quick guide for using CocoaPods
 - [raywenderlinch.com](https://www.raywenderlich.com/whats-new) - Many useful IOS development tutorials, mostly paid content though
+- [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) - The most comperhansive iOS development course that I've ever taken. Highly recommended. This course is for absolute beginner or even ppl don't know how to code :)
 - [Mobile Under 10](https://www.youtube.com/channel/UCYZwwd9FKGwBRrL0-EYAjxA/videos) - Jonathan Wong's YouTube channel
 
 ## Tools
 - [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
 - [Human Interface Guidelines | Apple](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) - Apple's design reference
 - [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
-- [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+- [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A bit outdated, but still useful
+- [App icon Generator](https://appicon.co/) - Where you can generate App icon by uploading your own image
 
 ## Others
 
