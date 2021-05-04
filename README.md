@@ -43,6 +43,7 @@
 - [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
 - [Human Interface Guidelines | Apple](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) - Apple's design reference
 - [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
+- [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
 ## Others
 
