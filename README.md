@@ -35,9 +35,9 @@
 - [iOS 14 Getting Started | Pluralsight](https://app.pluralsight.com/library/courses/ios-14-fundamentals/table-of-contents) - This course is highly recommended as the App being built in the course has more functionalities and use the latest iOS 14 and Xcode 12
 - [Becoming an Xcode Power User | Pluralsight](https://app.pluralsight.com/library/courses/becoming-xcode-power-user/table-of-contents)
 - [iOS Networking with REST APIs | Pluralsight](https://app.pluralsight.com/library/courses/ios-networking-rest-apis/table-of-contents)
-- [Managing Xcode Project Dependencies with CocoaPods](https://app.pluralsight.com/library/courses/cocoapods-xcode-project-dependencies/table-of-contents) - A short and quick guide for using CocoaPods
+- [Managing Xcode Project Dependencies with CocoaPods | Pluralsight](https://app.pluralsight.com/library/courses/cocoapods-xcode-project-dependencies/table-of-contents) - A short and quick guide for using CocoaPods
 - [raywenderlinch.com](https://www.raywenderlich.com/whats-new) - Many useful IOS development tutorials, mostly paid content though
-- [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) - The most comperhansive iOS development course that I've ever taken. Highly recommended. This course is for absolute beginner or even ppl don't know how to code :)
+- [iOS & Swift - The Complete iOS App Development Bootcamp | Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/) - The most comperhansive iOS development course that I've ever taken. Highly recommended. This course is for absolute beginner or even ppl don't know how to code :)
 - [Mobile Under 10](https://www.youtube.com/channel/UCYZwwd9FKGwBRrL0-EYAjxA/videos) - Jonathan Wong's YouTube channel
 
 ## Tools
