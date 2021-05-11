@@ -4,7 +4,7 @@
 
 #### Docs
 - [Swift.org](https://swift.org/) - Official docs for the Swift languange
-- [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Lots of resources for learning and using Swift
+- [Apple UIKit docs](https://developer.apple.com/documentation/uikit)
 
 #### Tutorial and blog posts
 - [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Online tnteractive Swift learning tutorial
@@ -52,3 +52,4 @@
 
 - [Example iOS Apps](https://github.com/jogendra/example-ios-apps)
 - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Lots of resources for learning and using Swift
