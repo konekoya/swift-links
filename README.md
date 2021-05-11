@@ -3,7 +3,8 @@
 ## Learning material
 
 #### Docs
-- [Swift.org](https://swift.org/) - Official docs for the Swift languange
+- [Swift.org](https://swift.org/) - Official docs for the Swift languange, some important concepts are listed below
+  - [Protocols](https://docs.swift.org/swift-book/LanguageGuide/Protocols.html) 
 - [UIKit docs](https://developer.apple.com/documentation/uikit) - Apple's developer docs for UIKit
 
 #### Tutorial and blog posts
