@@ -4,7 +4,7 @@
 
 #### Docs
 - [Swift.org](https://swift.org/) - Official docs for the Swift languange
-- [Apple UIKit docs](https://developer.apple.com/documentation/uikit)
+- [UIKit docs](https://developer.apple.com/documentation/uikit) - Apple's developer docs for UIKit
 
 #### Tutorial and blog posts
 - [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Online tnteractive Swift learning tutorial
