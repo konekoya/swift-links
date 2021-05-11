@@ -7,7 +7,7 @@
 - [UIKit docs](https://developer.apple.com/documentation/uikit) - Apple's developer docs for UIKit
 
 #### Tutorial and blog posts
-- [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Online tnteractive Swift learning tutorial
+- [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Online interactive Swift learning tutorial
 - [SwiftUI Tutorials | Apple](https://developer.apple.com/tutorials/swiftui) - Official Swift UI tutorial by Apple
 - [SwiftTips](https://github.com/vincent-pradeilles/swift-tips) - See also the video version of these [tips](https://www.youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je) :) 
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
@@ -36,7 +36,7 @@
 - [Becoming an Xcode Power User | Pluralsight](https://app.pluralsight.com/library/courses/becoming-xcode-power-user/table-of-contents)
 - [iOS Networking with REST APIs | Pluralsight](https://app.pluralsight.com/library/courses/ios-networking-rest-apis/table-of-contents)
 - [Managing Xcode Project Dependencies with CocoaPods | Pluralsight](https://app.pluralsight.com/library/courses/cocoapods-xcode-project-dependencies/table-of-contents) - A short and quick guide for using CocoaPods
-- [iOS Debugging Fundamentals](https://app.pluralsight.com/library/courses/ios-debugging-fundamentals/table-of-contents)
+- [iOS Debugging Fundamentals | Pluralsight](https://app.pluralsight.com/library/courses/ios-debugging-fundamentals/table-of-contents)
 - [iOS & Swift - The Complete iOS App Development Bootcamp | Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/) - The most comperhansive iOS development course that I've ever taken. Highly recommended. This course is for absolute beginner or even ppl don't know how to code :)
 - [raywenderlinch.com](https://www.raywenderlich.com/whats-new) - Many useful IOS development tutorials, mostly paid content though
 - [Mobile Under 10](https://www.youtube.com/channel/UCYZwwd9FKGwBRrL0-EYAjxA/videos) - Jonathan Wong's YouTube channel
