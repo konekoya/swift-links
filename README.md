@@ -6,9 +6,11 @@
 
 - [Swift.org](https://swift.org/) - Official docs for the Swift languange, some important concepts are listed below
   - [Protocols](https://docs.swift.org/swift-book/LanguageGuide/Protocols.html)
+  - [Extensions](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html)
   - [Structures and Classes](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
   - [Inheritance](https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html)
 - [UIKit docs](https://developer.apple.com/documentation/uikit) - Apple's developer docs for UIKit
+- [Property list file(info.plist) docs](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html) - Note that this docs is no longer being updated
 
 #### Tutorial and blog posts
 
@@ -60,6 +62,7 @@
 ## Tools
 
 - [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
+- [Swift Sandbox](https://www.weheartswift.com/swift-sandbox/) - Just like REPL
 - [Human Interface Guidelines | Apple](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) - Apple's design reference
 - [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A bit outdated, but still useful
