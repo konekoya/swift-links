@@ -26,6 +26,7 @@
 
 #### Blogs
 - [Swift by Sundell](https://www.swiftbysundell.com/)
+- [LearnAppMaking.com](https://learnappmaking.com/)
 
 #### Books
 - [iOS 14 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics 1st Edition](https://www.amazon.com/iOS-14-Programming-Fundamentals-Swift/dp/1492092096)
