@@ -35,6 +35,7 @@
 
 - [Swift by Sundell](https://www.swiftbysundell.com/)
 - [LearnAppMaking.com](https://learnappmaking.com/)
+- [Alexito's World](https://alejandromp.com/)
 
 #### Books
 
