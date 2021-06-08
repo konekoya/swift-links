@@ -74,6 +74,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [iOS & Swift - The Complete iOS App Development Bootcamp | Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/) - The most comperhansive iOS development course that I've ever taken. Highly recommended. This course is for absolute beginner or even ppl don't know how to code :)
 - [raywenderlinch.com](https://www.raywenderlich.com/whats-new) - Many useful IOS development tutorials, mostly paid content though
 - [Mobile Under 10](https://www.youtube.com/channel/UCYZwwd9FKGwBRrL0-EYAjxA/videos) - Jonathan Wong's YouTube channel
+- [Stewart Lynch](https://www.youtube.com/c/StewartLynch/videos) Stewart Lynch's YouTube channel which teaches topics like SwiftUI and iOS development
 
 ## Tools
 
