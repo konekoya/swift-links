@@ -49,6 +49,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 - [Swift by Sundell](https://www.swiftbysundell.com/)
 - [LearnAppMaking.com](https://learnappmaking.com/)
+- [Alexito's World](https://alejandromp.com/)
 
 #### Books
 
