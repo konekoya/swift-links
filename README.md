@@ -1,15 +1,27 @@
 # Swift links
 
+Some useful links that I have come across while learning Swift and iOS development
+
 ## Learning material
 
 #### Docs
 
-- [Swift.org](https://swift.org/) - Official docs for the Swift languange, some important concepts are listed below
+- [Swift.org](https://swift.org/) - Official docs for the Swift language, some important concepts are listed below:
   - [Protocols](https://docs.swift.org/swift-book/LanguageGuide/Protocols.html)
   - [Extensions](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html)
   - [Structures and Classes](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
   - [Inheritance](https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html)
+  - [Properties](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
+  - [Type Casting](https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html)
+  - [Closures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
+  - [Choosing Between Structures and Classes](https://developer.apple.com/documentation/swift/choosing_between_structures_and_classes)
 - [UIKit docs](https://developer.apple.com/documentation/uikit) - Apple's developer docs for UIKit
+  - [Supporting Dark Mode in Your Interface](https://developer.apple.com/documentation/uikit/appearance_customization/supporting_dark_mode_in_your_interface)
+  - [Managing Your App's Life Cycle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle)
+  - [UIViewController](https://developer.apple.com/documentation/uikit/uiviewcontroller)
+  - [UITextFieldDelegate](https://developer.apple.com/documentation/uikit/uitextfielddelegate)
+- [Foundation](https://developer.apple.com/documentation/foundation)
+  - [UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults)
 - [Property list file(info.plist) docs](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html) - Note that this docs is no longer being updated
 
 #### Tutorial and blog posts
@@ -23,6 +35,8 @@
 - [100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.ujf6i9mpo)
 - [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
 - [Delegation in Swift Explained](https://learnappmaking.com/delegation-swift-how-to/)
+- [Auto Layout Tutorial in iOS: Getting Started](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
+- [Where are the standard UserDefaults stored?](https://crystalminds.medium.com/where-are-the-standard-userdefaults-stored-d02bf74854ff) - Probably the easily way to peek inside the user default plist...
 
 ##### in Chinese
 
@@ -73,3 +87,5 @@
 - [Example iOS Apps](https://github.com/jogendra/example-ios-apps)
 - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Lots of resources for learning and using Swift
+- [Xcode Shortcuts](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
+- [Xcode Code Sense](https://stackoverflow.com/questions/6662395/xcode-intellisense-meaning-of-letters-in-colored-boxes-like-f-t-c-m-p-c-k-etc)
