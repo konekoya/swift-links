@@ -26,6 +26,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 #### Tutorial and blog posts
 
+##### English
 - [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Online interactive Swift learning tutorial
 - [SwiftUI Tutorials | Apple](https://developer.apple.com/tutorials/swiftui) - Official Swift UI tutorial by Apple
 - [SwiftTips](https://github.com/vincent-pradeilles/swift-tips) - See also the video version of these [tips](https://www.youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je) :)
@@ -38,7 +39,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Auto Layout Tutorial in iOS: Getting Started](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
 - [Where are the standard UserDefaults stored?](https://crystalminds.medium.com/where-are-the-standard-userdefaults-stored-d02bf74854ff) - Probably the easily way to peek inside the user default plist...
 
-##### in Chinese
+##### Chinese
 
 - [利用 SwiftUI 的 Spacer & padding 調整元件位置](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E5%88%A9%E7%94%A8-swiftui-%E7%9A%84-spacer-padding-%E8%AA%BF%E6%95%B4%E5%85%83%E4%BB%B6%E4%BD%8D%E7%BD%AE-1a851d3551e3)
 - [How I’m learning Swift | 自學 Swift 指引](https://medium.com/henrystime/swift-ab0159b71871)
@@ -56,6 +57,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 - [iOS 14 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics 1st Edition](https://www.amazon.com/iOS-14-Programming-Fundamentals-Swift/dp/1492092096)
 - [The Swift Programming Language 正體中文版](https://tommy60703.gitbooks.io/swift-language-traditional-chinese/content/chapter1/01_swift.html)
+- [Swift 起步走](https://itisjoe.github.io/swiftgo/)
 
 #### Video courses
 
