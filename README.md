@@ -48,11 +48,12 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [UITextField 的 leftView & rightView](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/uitextfield-%E7%9A%84-leftview-rightview-%E4%BB%A5%E6%94%BE%E5%A4%A7%E9%8F%A1-%E5%AF%86%E7%A2%BC%E9%A1%AF%E7%A4%BA%E9%96%8B%E9%97%9C%E7%82%BA%E4%BE%8B-7813fa9fd4f1)
 - [Swift 新手系列之三：Auto Layout 介紹](https://www.appcoda.com.tw/auto-layout/) - Slightly outdated, but still very useful as an intro to Auto Layout
 
-#### Blogs
+#### Blogs and sites
 
 - [Swift by Sundell](https://www.swiftbysundell.com/)
 - [LearnAppMaking.com](https://learnappmaking.com/)
 - [Alexito's World](https://alejandromp.com/)
+- [App Code](https://www.appcoda.com.tw/)
 
 #### Books
 
