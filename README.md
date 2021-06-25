@@ -15,6 +15,7 @@ Some useful links that I have come across while learning Swift and iOS developme
   - [Type Casting](https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html)
   - [Closures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
   - [Choosing Between Structures and Classes](https://developer.apple.com/documentation/swift/choosing_between_structures_and_classes)
+  - [Access Control](https://docs.swift.org/swift-book/LanguageGuide/AccessControl.html)
 - [UIKit docs](https://developer.apple.com/documentation/uikit) - Apple's developer docs for UIKit
   - [Supporting Dark Mode in Your Interface](https://developer.apple.com/documentation/uikit/appearance_customization/supporting_dark_mode_in_your_interface)
   - [Managing Your App's Life Cycle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle)
