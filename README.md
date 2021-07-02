@@ -95,6 +95,11 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A bit outdated, but still useful
 - [App icon Generator](https://appicon.co/) - Where you can generate App icon by uploading your own image
 
+
+## OSS packages
+- [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - A quick fix for fixing iOS default keyboard behavior
+- [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)
+
 ## Others
 
 - [Example iOS Apps](https://github.com/jogendra/example-ios-apps)
@@ -102,3 +107,5 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Lots of resources for learning and using Swift
 - [Xcode Shortcuts](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
 - [Xcode Code Sense](https://stackoverflow.com/questions/6662395/xcode-intellisense-meaning-of-letters-in-colored-boxes-like-f-t-c-m-p-c-k-etc)
+- [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - Kind of like the Chinese verion of Awesome Swift
+- [iOS Good Practices](https://github.com/futurice/ios-good-practices)
