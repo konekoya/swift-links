@@ -114,3 +114,4 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - Kind of like the Chinese verion of Awesome Swift
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [Average App Store Review Times](https://appreviewtimes.com/)
+- [iOS Goodies](https://ios-goodies.com/) - Weekly iOS newsletter 
