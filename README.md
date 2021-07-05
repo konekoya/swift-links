@@ -24,6 +24,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Foundation](https://developer.apple.com/documentation/foundation)
   - [UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults)
 - [Property list file(info.plist) docs](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html) - Note that this docs is no longer being updated
+- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 
 #### Tutorial and blog posts
 
@@ -109,3 +110,4 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Xcode Code Sense](https://stackoverflow.com/questions/6662395/xcode-intellisense-meaning-of-letters-in-colored-boxes-like-f-t-c-m-p-c-k-etc)
 - [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - Kind of like the Chinese verion of Awesome Swift
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
+- [Average App Store Review Times](https://appreviewtimes.com/)
