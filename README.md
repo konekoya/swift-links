@@ -95,6 +95,9 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A bit outdated, but still useful
 - [App icon Generator](https://appicon.co/) - Where you can generate App icon by uploading your own image
+- [MakeAppIcon](https://makeappicon.com/) - Best app icon resizer for mobile developers.
+- [MockuPhone](https://mockuphone.com/) - Free and simple screenshots device mockups generator
+- [Appsite](https://appsite.skygear.io/) - Perfect landing page generator
 
 
 ## OSS packages
