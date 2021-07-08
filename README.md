@@ -25,6 +25,7 @@ Some useful links that I have come across while learning Swift and iOS developme
   - [UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults)
 - [Property list file(info.plist) docs](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html) - Note that this docs is no longer being updated
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
 #### Tutorial and blog posts
 
@@ -39,7 +40,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
 - [Delegation in Swift Explained](https://learnappmaking.com/delegation-swift-how-to/)
 - [Auto Layout Tutorial in iOS: Getting Started](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
-- [Where are the standard UserDefaults stored?](https://crystalminds.medium.com/where-are-the-standard-userdefaults-stored-d02bf74854ff) - Probably the easily way to peek inside the user default plist...
+- [Where are the standard UserDefaults stored?](https://crystalminds.medium.com/where-are-the-standard-userdefaults-stored-d02bf74854ff) - Probably the easily way to peek inside the user default plist
 
 ##### Chinese
 
@@ -115,3 +116,4 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [Average App Store Review Times](https://appreviewtimes.com/)
 - [iOS Goodies](https://ios-goodies.com/) - Weekly iOS newsletter 
+- [Podfile Syntax Reference](https://guides.cocoapods.org/syntax/podfile.html#pod) - A reference for CocoaPods version syntax in your Podfile
