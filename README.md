@@ -4,7 +4,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 ## Learning material
 
-#### Docs
+#### Official Docs
 
 - [Swift.org](https://swift.org/) - Official docs for the Swift language, some important concepts are listed below:
   - [Protocols](https://docs.swift.org/swift-book/LanguageGuide/Protocols.html)
@@ -21,17 +21,18 @@ Some useful links that I have come across while learning Swift and iOS developme
   - [Managing Your App's Life Cycle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle)
   - [UIViewController](https://developer.apple.com/documentation/uikit/uiviewcontroller)
   - [UITextFieldDelegate](https://developer.apple.com/documentation/uikit/uitextfielddelegate)
+- [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)
 - [Foundation](https://developer.apple.com/documentation/foundation)
   - [UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults)
 - [Property list file(info.plist) docs](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html) - Note that this docs is no longer being updated
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
-- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Apple's design reference
 
 #### Tutorial and blog posts
 
 ##### English
-- [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Online interactive Swift learning tutorial
-- [SwiftUI Tutorials | Apple](https://developer.apple.com/tutorials/swiftui) - Official Swift UI tutorial by Apple
+- [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Interactive Swift learning tutorial
+
 - [SwiftTips](https://github.com/vincent-pradeilles/swift-tips) - See also the video version of these [tips](https://www.youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je) :)
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui) - Project based learning SwiftUI
@@ -92,7 +93,6 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 - [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
 - [Swift Sandbox](https://www.weheartswift.com/swift-sandbox/) - Just like REPL
-- [Human Interface Guidelines | Apple](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/) - Apple's design reference
 - [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A bit outdated, but still useful
 - [App icon Generator](https://appicon.co/) - Where you can generate App icon by uploading your own image
