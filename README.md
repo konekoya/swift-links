@@ -27,6 +27,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Property list file(info.plist) docs](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html) - Note that this docs is no longer being updated
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Apple's design reference
+- [App Store](https://developer.apple.com/support/app-store/) - Good place for referencing iOS usage in a worldwide base
 
 #### Tutorial and blog posts
 
