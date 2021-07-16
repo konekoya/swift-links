@@ -4,7 +4,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 ## Learning material
 
-#### Official Docs
+#### Official Docs and tutorials
 
 - [Swift.org](https://swift.org/) - Official docs for the Swift language, some important concepts are listed below:
   - [Protocols](https://docs.swift.org/swift-book/LanguageGuide/Protocols.html)
@@ -28,6 +28,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Apple's design reference
 - [App Store](https://developer.apple.com/support/app-store/) - Good place for referencing iOS usage in a worldwide base
+- [iOS App Dev Tutorials](https://developer.apple.com/tutorials/app-dev-training/) - SwiftUI, UIKit and more
 
 #### Tutorial and blog posts
 
