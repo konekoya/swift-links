@@ -102,6 +102,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [MakeAppIcon](https://makeappicon.com/) - Best app icon resizer for mobile developers.
 - [MockuPhone](https://mockuphone.com/) - Free and simple screenshots device mockups generator
 - [Appsite](https://appsite.skygear.io/) - Perfect landing page generator
+- [Pattrns](https://pttrns.com/) - Design guideline for Mobile App
 
 
 ## OSS packages
