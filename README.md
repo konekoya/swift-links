@@ -6,16 +6,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 #### Official Docs and tutorials
 
-- [Swift.org](https://swift.org/) - Official docs for the Swift language, some important concepts are listed below:
-  - [Protocols](https://docs.swift.org/swift-book/LanguageGuide/Protocols.html)
-  - [Extensions](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html)
-  - [Structures and Classes](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
-  - [Inheritance](https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html)
-  - [Properties](https://docs.swift.org/swift-book/LanguageGuide/Properties.html)
-  - [Type Casting](https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html)
-  - [Closures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
-  - [Choosing Between Structures and Classes](https://developer.apple.com/documentation/swift/choosing_between_structures_and_classes)
-  - [Access Control](https://docs.swift.org/swift-book/LanguageGuide/AccessControl.html)
+- [Swift.org](https://swift.org/) - Official docs for the Swift language
 - [UIKit docs](https://developer.apple.com/documentation/uikit) - Apple's developer docs for UIKit
   - [Supporting Dark Mode in Your Interface](https://developer.apple.com/documentation/uikit/appearance_customization/supporting_dark_mode_in_your_interface)
   - [Managing Your App's Life Cycle](https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle)
@@ -121,3 +112,4 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Average App Store Review Times](https://appreviewtimes.com/)
 - [iOS Goodies](https://ios-goodies.com/) - Weekly iOS newsletter 
 - [Podfile Syntax Reference](https://guides.cocoapods.org/syntax/podfile.html#pod) - A reference for CocoaPods version syntax in your Podfile
+- [Awesome native Xcode extensions](https://github.com/theswiftdev/awesome-xcode-extensions)
