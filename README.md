@@ -25,7 +25,6 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 ##### English
 - [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Interactive Swift learning tutorial
-
 - [SwiftTips](https://github.com/vincent-pradeilles/swift-tips) - See also the video version of these [tips](https://www.youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je) :)
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui) - Project based learning SwiftUI
