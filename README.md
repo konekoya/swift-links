@@ -34,6 +34,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Delegation in Swift Explained](https://learnappmaking.com/delegation-swift-how-to/)
 - [Auto Layout Tutorial in iOS: Getting Started](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
 - [Where are the standard UserDefaults stored?](https://crystalminds.medium.com/where-are-the-standard-userdefaults-stored-d02bf74854ff) - Probably the easily way to peek inside the user default plist
+- [You don’t (always) need [weak self]](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
 
 ##### Chinese
 
