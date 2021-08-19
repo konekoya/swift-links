@@ -95,21 +95,25 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Appsite](https://appsite.skygear.io/) - Perfect landing page generator
 - [Pattrns](https://pttrns.com/) - Design guideline for Mobile App
 
-
 ## OSS packages
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - A quick fix for fixing iOS default keyboard behavior
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)
 
-## Others
-
-- [Example iOS Apps](https://github.com/jogendra/example-ios-apps)
-- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
-- [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Lots of resources for learning and using Swift
+## Xcode
 - [Xcode Shortcuts](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
 - [Xcode Code Sense](https://stackoverflow.com/questions/6662395/xcode-intellisense-meaning-of-letters-in-colored-boxes-like-f-t-c-m-p-c-k-etc)
+- [Awesome native Xcode extensions](https://github.com/theswiftdev/awesome-xcode-extensions)
+
+## Awesome
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Lots of resources for learning and using Swift
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - Kind of like the Chinese verion of Awesome Swift
+
+## Others
+- [Example iOS Apps](https://github.com/jogendra/example-ios-apps)
+- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [Average App Store Review Times](https://appreviewtimes.com/)
 - [iOS Goodies](https://ios-goodies.com/) - Weekly iOS newsletter 
 - [Podfile Syntax Reference](https://guides.cocoapods.org/syntax/podfile.html#pod) - A reference for CocoaPods version syntax in your Podfile
-- [Awesome native Xcode extensions](https://github.com/theswiftdev/awesome-xcode-extensions)
+
