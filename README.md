@@ -78,7 +78,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Stewart Lynch](https://www.youtube.com/c/StewartLynch/videos) Stewart Lynch's YouTube channel which teaches topics like SwiftUI and iOS development
 - [Paul Hudson](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
 - [NSScreencast](https://nsscreencast.com/episodes)
-- [iOS Academy](https://www.youtube.com/c/iOSAcademy/videos) - Hosted on YouTube, lots of free content, probably the best iOS free tutorials you can find on YT
+- [iOS Academy](https://www.youtube.com/c/iOSAcademy/videos) - Hosted on YouTube, lots of free content, probably the best iOS free tutorials you can find on ~~YT~~ the internet!
 
 ##### Single episode
 - [24 Xcode Tips in 15 Minutes](https://www.youtube.com/watch?v=8kiR_QsQNPc)
