@@ -94,6 +94,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [MockuPhone](https://mockuphone.com/) - Free and simple screenshots device mockups generator
 - [Appsite](https://appsite.skygear.io/) - Perfect landing page generator
 - [Pattrns](https://pttrns.com/) - Design guideline for Mobile App
+- [NSDateFormatter.com](https://nsdateformatter.com/) - Date format reference
 
 ## OSS packages
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - A quick fix for fixing iOS default keyboard behavior
