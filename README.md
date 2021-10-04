@@ -84,17 +84,20 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [24 Xcode Tips in 15 Minutes](https://www.youtube.com/watch?v=8kiR_QsQNPc)
 
 ## Tools
-
-- [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
+#### Code related
 - [Swift Sandbox](https://www.weheartswift.com/swift-sandbox/) - Just like REPL
-- [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
-- [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A bit outdated, but still useful
+- [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
+- [NSDateFormatter.com](https://nsdateformatter.com/) - Date format reference
+
+##### Graphic and design
+- [Haikei](https://haikei.app/) - Generate unique SVG design assets
+- [Appsite](https://appsite.skygear.io/) - Perfect landing page generator
 - [App icon Generator](https://appicon.co/) - Where you can generate App icon by uploading your own image
 - [MakeAppIcon](https://makeappicon.com/) - Best app icon resizer for mobile developers.
-- [MockuPhone](https://mockuphone.com/) - Free and simple screenshots device mockups generator
-- [Appsite](https://appsite.skygear.io/) - Perfect landing page generator
 - [Pattrns](https://pttrns.com/) - Design guideline for Mobile App
-- [NSDateFormatter.com](https://nsdateformatter.com/) - Date format reference
+- [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
+- [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A bit outdated, but still useful
+- [MockuPhone](https://mockuphone.com/) - Free and simple screenshots device mockups generator
 
 ## OSS packages
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - A quick fix for fixing iOS default keyboard behavior
