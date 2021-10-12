@@ -98,6 +98,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A bit outdated, but still useful
 - [MockuPhone](https://mockuphone.com/) - Free and simple screenshots device mockups generator
+- [Screen Sizes](https://www.screensizes.app/) - iPhone screen size reference
 
 ## OSS packages
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - A quick fix for fixing iOS default keyboard behavior
