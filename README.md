@@ -122,4 +122,4 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Average App Store Review Times](https://appreviewtimes.com/)
 - [iOS Goodies](https://ios-goodies.com/) - Weekly iOS newsletter 
 - [Podfile Syntax Reference](https://guides.cocoapods.org/syntax/podfile.html#pod) - A reference for CocoaPods version syntax in your Podfile
-
+- [Swift Version](https://swiftversion.net/) - The latest Swift and Xcode versions
