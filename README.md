@@ -24,6 +24,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 #### Tutorial and blog posts
 
 ##### English
+
 - [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Interactive Swift learning tutorial
 - [SwiftTips](https://github.com/vincent-pradeilles/swift-tips) - See also the video version of these [tips](https://www.youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je) :)
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
@@ -81,16 +82,20 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [iOS Academy](https://www.youtube.com/c/iOSAcademy/videos) - Hosted on YouTube, lots of free content, probably the best iOS free tutorials you can find on ~~YT~~ the internet!
 
 ##### Single episode
+
 - [24 Xcode Tips in 15 Minutes](https://www.youtube.com/watch?v=8kiR_QsQNPc)
 
 ## Tools
+
 #### Code related
+
 - [Swift Sandbox](https://www.weheartswift.com/swift-sandbox/) - Just like REPL
 - [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
 - [NSDateFormatter.com](https://nsdateformatter.com/) - Date format reference
 - [Kin](https://github.com/Karumi/Kin/) - Tool for fixing and checking project.pbxproj
 
 ##### Graphic and design
+
 - [Haikei](https://haikei.app/) - Generate unique SVG design assets
 - [Appsite](https://appsite.skygear.io/) - Perfect landing page generator
 - [App icon Generator](https://appicon.co/) - Where you can generate App icon by uploading your own image
@@ -102,24 +107,62 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Screen Sizes](https://www.screensizes.app/) - iPhone screen size reference
 
 ## OSS packages
+
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - A quick fix for fixing iOS default keyboard behavior
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)
 
+#### App intro/onboarding
+
+- [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - A swifty iOS framework that allows developers to create beautiful onboarding experiences.
+- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - :octocat: PaperOnboarding is a material design UI slider. Swift UI library by @Ramotion
+- [AwesomeSpotlightView
+  ](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Awesome tool for create tutorial walkthrough or coach tour
+- [material-showcase-ios](https://github.com/aromajoin/material-showcase-ios) - ✨ An elegant way to guide your beloved users in iOS apps - Material Showcase.
+- [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
+- [Instructions](https://github.com/ephread/Instructions) - Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.
+
+#### Tooltip
+
+- [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
+- [AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
+
+#### Tab
+
+- [CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
+- [ESTabBarController](https://github.com/eggswift/ESTabBarController) - :octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!
+- [Tabman](https://github.com/uias/Tabman) - ™️ A powerful paging view controller with interactive indicator bars
+- [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
+
+#### Permissions
+
+- [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
+
+#### Label
+
+- [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
+
+#### Transition / animation
+
+- [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash
+
 ## Xcode
+
 - [Xcode Shortcuts](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
 - [Xcode Code Sense](https://stackoverflow.com/questions/6662395/xcode-intellisense-meaning-of-letters-in-colored-boxes-like-f-t-c-m-p-c-k-etc)
 - [Awesome native Xcode extensions](https://github.com/theswiftdev/awesome-xcode-extensions)
 
 ## Awesome
+
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Lots of resources for learning and using Swift
 - [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - Kind of like the Chinese verion of Awesome Swift
 
 ## Others
+
 - [Example iOS Apps](https://github.com/jogendra/example-ios-apps)
 - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [Average App Store Review Times](https://appreviewtimes.com/)
-- [iOS Goodies](https://ios-goodies.com/) - Weekly iOS newsletter 
+- [iOS Goodies](https://ios-goodies.com/) - Weekly iOS newsletter
 - [Podfile Syntax Reference](https://guides.cocoapods.org/syntax/podfile.html#pod) - A reference for CocoaPods version syntax in your Podfile
 - [Swift Version](https://swiftversion.net/) - The latest Swift and Xcode versions
