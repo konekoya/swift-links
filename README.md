@@ -106,10 +106,19 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [MockuPhone](https://mockuphone.com/) - Free and simple screenshots device mockups generator
 - [Screen Sizes](https://www.screensizes.app/) - iPhone screen size reference
 
-## OSS packages
+## Open source packages
 
-- [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - A quick fix for fixing iOS default keyboard behavior
-- [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)
+Most of the packages listed below is still actively maintained (having at least one code update during 2021)
+
+- [ShowTime](https://github.com/KaneCheshire/ShowTime) - The easiest way to show off your iOS taps and gestures for demos and videos.
+
+#### Code
+
+- [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
+- [R.swift](https://github.com/mac-cain13/R.swift) - Strong typed, autocompleted resources like images, fonts and segues in Swift projects
+- [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
+- [Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
+- [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 
 #### App intro/onboarding
 
@@ -137,6 +146,11 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 - [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
 
+#### Form
+
+- [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - A quick fix for fixing iOS default keyboard behavior
+- [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift
+
 #### Label
 
 - [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
@@ -144,6 +158,30 @@ Some useful links that I have come across while learning Swift and iOS developme
 #### Transition / animation
 
 - [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash
+- [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
+- [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
+- [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line
+
+#### PageControl
+
+- [AdvancedPageControl](https://github.com/mohn93/AdvancedPageControl) - A simple yet powerful page control indicator animations library for iOS.
+
+#### Slides
+
+- [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+
+#### Collection view
+
+- [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but highly customizable UICollectionViewLayout for UICollectionView -- Simple SwiftUI views that let you make page-view effects.
+
+#### Loader / Loading
+
+- [SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
+
+#### Toast
+
+- [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
+- [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 
 ## Xcode
 
@@ -156,12 +194,17 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Lots of resources for learning and using Swift
 - [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - Kind of like the Chinese verion of Awesome Swift
+- [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
+
+## Code style / best practices
+
+- [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - The official Swift style guide for raywenderlich.com.
+- [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 
 ## Others
 
 - [Example iOS Apps](https://github.com/jogendra/example-ios-apps)
 - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
-- [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [Average App Store Review Times](https://appreviewtimes.com/)
 - [iOS Goodies](https://ios-goodies.com/) - Weekly iOS newsletter
 - [Podfile Syntax Reference](https://guides.cocoapods.org/syntax/podfile.html#pod) - A reference for CocoaPods version syntax in your Podfile
