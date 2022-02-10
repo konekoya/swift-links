@@ -4,7 +4,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 ## Learning material
 
-#### Official Docs and tutorials
+#### Official docs and tutorials
 
 - [Swift.org](https://swift.org/) - Official docs for the Swift language
 - [UIKit docs](https://developer.apple.com/documentation/uikit) - Apple's developer docs for UIKit
@@ -111,6 +111,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 Most of the packages listed below is still actively maintained (having at least one code update during 2021)
 
 - [ShowTime](https://github.com/KaneCheshire/ShowTime) - The easiest way to show off your iOS taps and gestures for demos and videos.
+- [periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 
 #### Code
 
@@ -135,12 +136,13 @@ Most of the packages listed below is still actively maintained (having at least 
 - [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift for iOS.
 - [AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 
-#### Tab
+#### TabBar
 
 - [CircleBar](https://github.com/softhausHQ/CircleBar) - A fun, easy-to-use tab bar navigation controller for iOS.
 - [ESTabBarController](https://github.com/eggswift/ESTabBarController) - :octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!
 - [Tabman](https://github.com/uias/Tabman) - ™️ A powerful paging view controller with interactive indicator bars
 - [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
+- [ESTabBarController](https://github.com/eggswift/ESTabBarController) - :octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!
 
 #### Permissions
 
@@ -154,6 +156,7 @@ Most of the packages listed below is still actively maintained (having at least 
 #### Label
 
 - [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
+- [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text does not fit inside the specified frame
 
 #### Transition / animation
 
@@ -165,6 +168,7 @@ Most of the packages listed below is still actively maintained (having at least 
 #### PageControl
 
 - [AdvancedPageControl](https://github.com/mohn93/AdvancedPageControl) - A simple yet powerful page control indicator animations library for iOS.
+- [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls written in Swift to replace boring UIPageControl. Mady by @ChiliLabs - https://chililabs.io
 
 #### Slides
 
@@ -182,6 +186,10 @@ Most of the packages listed below is still actively maintained (having at least 
 
 - [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
+
+#### Alert / Popup
+
+- [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift
 
 ## Xcode
 
