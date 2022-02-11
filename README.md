@@ -191,6 +191,10 @@ Most of the packages listed below is still actively maintained (having at least 
 
 - [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift
 
+#### Card
+
+- [appstore-card-transition](https://github.com/appssemble/appstore-card-transition) - Appstore card animation transition. UICollectionView and UITableView card expand animated transition for iOS
+
 ## Xcode
 
 - [Xcode Shortcuts](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
