@@ -120,6 +120,9 @@ Most of the packages listed below is still actively maintained (having at least 
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
+- [Cache](https://github.com/hyperoslo/Cache) - 📦 Nothing but Cache.
+- [tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
+- [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
 
 #### App intro/onboarding
 
@@ -190,10 +193,33 @@ Most of the packages listed below is still actively maintained (having at least 
 #### Alert / Popup
 
 - [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift
+- [SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music, Mail & Podcasts Apple's apps.
+- [STPopup](https://github.com/kevin-lyn/STPopup) - STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
 
 #### Card
 
 - [appstore-card-transition](https://github.com/appssemble/appstore-card-transition) - Appstore card animation transition. UICollectionView and UITableView card expand animated transition for iOS
+- [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit for iOS developers.
+
+#### Chart
+
+- [SwiftCharts](https://github.com/ivanschuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS
+
+#### Image
+
+- [Toucan](https://github.com/gavinbunney/Toucan) - Fabulous Image Processing in Swift
+
+#### File / image / upload
+
+- [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift
+
+#### Layout
+
+- [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts
+
+#### Text Editor
+
+- [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
 ## Xcode
 
