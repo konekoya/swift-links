@@ -103,6 +103,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Pattrns](https://pttrns.com/) - Design guideline for Mobile App
 - [SF Symbols 2](https://developer.apple.com/sf-symbols/) - Like icons in the iOS land
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A bit outdated, but still useful
+- [iOS Resolution](https://www.ios-resolution.com/) - Display proerties of every iPhone, iPad and iPod touch Apple ever made
 - [MockuPhone](https://mockuphone.com/) - Free and simple screenshots device mockups generator
 - [Screen Sizes](https://www.screensizes.app/) - iPhone screen size reference
 
