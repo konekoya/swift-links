@@ -93,6 +93,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Online REPL](http://online.swiftplayground.run/) - Simple REPL for testing your swift code. You can also do this in Xcode's [playground](https://learnappmaking.com/xcode-playground-get-started-with-swift/)
 - [NSDateFormatter.com](https://nsdateformatter.com/) - Date format reference
 - [Kin](https://github.com/Karumi/Kin/) - Tool for fixing and checking project.pbxproj
+- [Xcode Releases](https://xcodereleases.com/) - More than you ever wanted to know™
 
 ##### Graphic and design
 
