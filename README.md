@@ -218,6 +218,10 @@ Most of the packages listed below is still actively maintained (having at least 
 #### Layout
 
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts
+- [YogaKit](https://github.com/facebook/yoga/tree/main/YogaKit) - Layout tool made by Meta
+- [SnapKit](https://github.com/SnapKit/SnapKit) - SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
+
+
 
 #### Text Editor
 
