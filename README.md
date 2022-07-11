@@ -30,21 +30,10 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui) - Project based learning SwiftUI
 - [Swift by example](http://brettbukowski.github.io/SwiftExamples/)
-- [100 Days of Swift](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.ujf6i9mpo)
-- [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
 - [Delegation in Swift Explained](https://learnappmaking.com/delegation-swift-how-to/)
 - [Auto Layout Tutorial in iOS: Getting Started](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
 - [Where are the standard UserDefaults stored?](https://crystalminds.medium.com/where-are-the-standard-userdefaults-stored-d02bf74854ff) - Probably the easily way to peek inside the user default plist
 - [You don’t (always) need [weak self]](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
-
-##### Chinese
-
-- [利用 SwiftUI 的 Spacer & padding 調整元件位置](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E5%88%A9%E7%94%A8-swiftui-%E7%9A%84-spacer-padding-%E8%AA%BF%E6%95%B4%E5%85%83%E4%BB%B6%E4%BD%8D%E7%BD%AE-1a851d3551e3)
-- [How I’m learning Swift | 自學 Swift 指引](https://medium.com/henrystime/swift-ab0159b71871)
-- [Swift 5 學習系列』-11. 閉包](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/%E7%B0%A1%E6%98%93%E8%AA%AA%E6%98%8Eswift-4-closures-77351c3bf775)
-- [Array 的高階函式 filter, map and reduce](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/array-%E7%9A%84%E9%AB%98%E9%9A%8E%E5%87%BD%E5%BC%8F-filter-map-and-reduce-39fb8ba5a9f7) - Learn the basic functional programming concepts for collections
-- [UITextField 的 leftView & rightView](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/uitextfield-%E7%9A%84-leftview-rightview-%E4%BB%A5%E6%94%BE%E5%A4%A7%E9%8F%A1-%E5%AF%86%E7%A2%BC%E9%A1%AF%E7%A4%BA%E9%96%8B%E9%97%9C%E7%82%BA%E4%BE%8B-7813fa9fd4f1)
-- [Swift 新手系列之三：Auto Layout 介紹](https://www.appcoda.com.tw/auto-layout/) - Slightly outdated, but still very useful as an intro to Auto Layout
 
 #### Blogs and sites
 
@@ -52,6 +41,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [LearnAppMaking.com](https://learnappmaking.com/)
 - [Alexito's World](https://alejandromp.com/)
 - [App Code](https://www.appcoda.com.tw/)
+- [Mohd Hafiz's Medium](https://brontoxx.medium.com/) - iOS Developer focusing on Swift — “Read, learn & do it!”.
 
 #### Books
 
