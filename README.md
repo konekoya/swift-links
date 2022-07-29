@@ -23,8 +23,6 @@ Some useful links that I have come across while learning Swift and iOS developme
 
 #### Tutorial and blog posts
 
-##### English
-
 - [Learn Swift | Codecademey](https://www.codecademy.com/learn/learn-swift) - Interactive Swift learning tutorial
 - [SwiftTips](https://github.com/vincent-pradeilles/swift-tips) - See also the video version of these [tips](https://www.youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je) :)
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
@@ -42,12 +40,6 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Alexito's World](https://alejandromp.com/)
 - [App Code](https://www.appcoda.com.tw/)
 - [Mohd Hafiz's Medium](https://brontoxx.medium.com/) - iOS Developer focusing on Swift — “Read, learn & do it!”.
-
-#### Books
-
-- [iOS 14 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics 1st Edition](https://www.amazon.com/iOS-14-Programming-Fundamentals-Swift/dp/1492092096)
-- [The Swift Programming Language 正體中文版](https://tommy60703.gitbooks.io/swift-language-traditional-chinese/content/chapter1/01_swift.html)
-- [Swift 起步走](https://itisjoe.github.io/swiftgo/)
 
 #### Video courses
 
@@ -69,7 +61,7 @@ Some useful links that I have come across while learning Swift and iOS developme
 - [Stewart Lynch](https://www.youtube.com/c/StewartLynch/videos) Stewart Lynch's YouTube channel which teaches topics like SwiftUI and iOS development
 - [Paul Hudson](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
 - [NSScreencast](https://nsscreencast.com/episodes)
-- [iOS Academy](https://www.youtube.com/c/iOSAcademy/videos) - Hosted on YouTube, lots of free content, probably the best iOS free tutorials you can find on ~~YT~~ the internet!
+- [iOS Academy](https://www.youtube.com/c/iOSAcademy/videos) - YouTube channel, lots of free content, probably the best iOS free tutorials you can find on the internet!
 
 ##### Single episode
 
@@ -210,8 +202,6 @@ Most of the packages listed below is still actively maintained (having at least 
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts
 - [YogaKit](https://github.com/facebook/yoga/tree/main/YogaKit) - Layout tool made by Meta
 - [SnapKit](https://github.com/SnapKit/SnapKit) - SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
-
-
 
 #### Text Editor
 
