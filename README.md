@@ -233,3 +233,4 @@ Most of the packages listed below is still actively maintained (having at least 
 - [iOS Goodies](https://ios-goodies.com/) - Weekly iOS newsletter
 - [Podfile Syntax Reference](https://guides.cocoapods.org/syntax/podfile.html#pod) - A reference for CocoaPods version syntax in your Podfile
 - [Swift Version](https://swiftversion.net/) - The latest Swift and Xcode versions
+- [The fastest and easiest way to install Ruby on a Mac in 2022](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#start-here-if-you-choose-the-long-and-manual-route) - This will be the life saver if you plan to use [fastlane](https://fastlane.tools/) as your build tool
